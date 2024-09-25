@@ -1,1 +1,1 @@
-export const DB_NAME = "mongodatabase"
+export const DB_NAME = "mydatabase"
